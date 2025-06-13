@@ -1,2 +1,2 @@
-# isti
-https://uzsakisti.github.io/isti.github.io/
+# isti https://uzsakisti.github.io/isti.github.io/
+
